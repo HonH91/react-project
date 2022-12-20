@@ -20,7 +20,6 @@ export default function SearchCity() {
     function updateCity(event) {
         setCity(event.target.value);
     }
-
     let form = (
         <form onSubmit={handleSubmit}>
             <input type="search" placeholder="Find a city.." onChange={updateCity} />
