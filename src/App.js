@@ -10,13 +10,9 @@ export default function App() {
 
         <footer>
           This project was coded by{" "}
-          <a
-            href="#"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+
             Hulnara Honchar
-          </a>{" "}
+          {" "}
           and is{" "}
           <a
             href="https://github.com/HonH91/react-project"
