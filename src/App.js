@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           This project was coded by{" "}
 
-            Hulnara Honchar
+          Hulnara Honchar
           {" "}
           and is{" "}
           <a
